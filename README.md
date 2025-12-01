@@ -1,7 +1,7 @@
 # Calculator & Sales Tracker
 
 ## Overview
-This project is part of my MIS GitHub Portfolio (Assignment 8).
+This project is part of my MIS GitHub Portfolio
 
 ## Description
 This repository includes two programs:  
