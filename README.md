@@ -1,27 +1,22 @@
-# Calculator & Sales Tracker
+# Tkinter GUI Calculator
 
 ## Overview
-This project is part of my MIS GitHub Portfolio
+This project is part of my MIS GitHub Portfolio (Assignment 8).
 
 ## Description
-This repository includes two programs:  
-1. A basic Python calculator using operators.  
-2. A sales tracker that calculates totals and revenue based on user entries.
+A fully working calculator built using Python's Tkinter GUI library, featuring buttons, input field, and real-time math operations.
 
 ## Tools & Skills Used
 - Python
-- Operators
-- Input handling
-- Basic data processing
+- Tkinter GUI
+- Event handling
 
 ## How It Works
-The calculator performs basic math operations.  
-The sales tracker asks for quantity, price, or totals and outputs calculated results.
+Users press buttons to enter numbers and operations, and the calculator displays results inside the GUI window.
 
 ## Files Included
-- calculator.py
-- sales_tracker.py
+- main.py
 - README
 
 ## What I Learned
-I learned how to perform calculations using Python logic.
+I learned the basics of building GUIs using Tkinter.
